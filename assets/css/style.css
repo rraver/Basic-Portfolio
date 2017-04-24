@@ -1,0 +1,30 @@
+
+header {
+  color: white;
+  background: #4aaaa5;
+  padding: 25px 25px 25px 25px;
+  font-size: 250%;
+  margin-left: 30px;
+  width: 250px;
+  display:inline-block;
+}
+
+
+#Contact {
+  padding: 40px 10px 0px 10px;
+  font-size: 150%;
+  float: right;
+}
+
+#Portfolio {
+  float:right;
+}
+
+#About {
+  float:right;
+}
+
+#container {
+  width: 1000px;
+  margin: auto;
+}
