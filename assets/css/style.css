@@ -101,7 +101,6 @@ h1 {
   color: #4aaaa5;
   font-size: 200%;
   font-weight: bold;
-
 }
 
 h2 {
@@ -112,10 +111,6 @@ h2 {
 
 h3 {
   font-size: 150%;
-}
-
-ul {
-
 }
 
 li {
@@ -149,10 +144,6 @@ li {
   border: none;
 
 }
-#ppicture {
-  padding: 50px 0px 0px 45px;
-}
-
 
 .imgwrapper1 {
   background-image: url("../images/image1.jpg");
